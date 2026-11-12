@@ -1,0 +1,15 @@
+[project]
+name = "festival-parser"
+version = "1.0.0"
+description = "Парсер админки GetCourse: участницы куратора, классификация комментариев и HTML-отчёт со «светофором» ожидания"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "playwright>=1.40",
+    "beautifulsoup4>=4.12",
+    "python-dotenv>=1.0",
+]
+
+# Раскомментируй и подставь свой адрес ПОСЛЕ публикации на GitHub:
+# [project.urls]
+# Repository = "https://github.com/ТВОЙ_НИК/festival-parser"

@@ -1,0 +1,30 @@
+# Секреты и сессия браузера
+.env
+gc_profile/
+gc_state.json
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Результаты (генерируются при каждом запуске)
+*.csv
+curator_report.html
+demo_report.html
+debug_page.html
+debug_screen.png
+debug_login.png
+debug_login.html
+
+# Резервные копии и временные файлы
+*.bak
+*.tmp
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/

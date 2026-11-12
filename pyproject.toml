@@ -10,6 +10,5 @@ dependencies = [
     "python-dotenv>=1.0",
 ]
 
-# Раскомментируй и подставь свой адрес ПОСЛЕ публикации на GitHub:
-# [project.urls]
-# Repository = "https://github.com/ТВОЙ_НИК/festival-parser"
+[project.urls]
+Repository = "https://github.com/antoxa3062-cpu/festival-parser"

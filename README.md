@@ -108,7 +108,7 @@ GetCourse. В «Ленте ответов» — **тысячи карточек*
 ### 1. Клонировать / скачать проект
 
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/antoxa3062-cpu/festival-parser.git
 cd festival_parser
 ```
 
